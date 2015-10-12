@@ -1,0 +1,6 @@
+[submodule "app/js/picturefill"]
+	path = app/js/picturefill
+	url = https://github.com/scottjehl/picturefill.git
+[submodule "app/js/--force"]
+	path = app/js/--force
+	url = https://github.com/scottjehl/picturefill.git
