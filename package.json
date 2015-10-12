@@ -1,0 +1,28 @@
+{
+  "name": "gulp-tutorial",
+  "version": "1.0.0",
+  "description": "This is a walk through of how to use Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "project test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arelia/gulp-walkthrough.git"
+  },
+  "keywords": [
+    "gulp",
+    "tutorial"
+  ],
+  "author": "Arelia Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arelia/gulp-walkthrough/issues"
+  },
+  "homepage": "https://github.com/arelia/gulp-walkthrough#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}

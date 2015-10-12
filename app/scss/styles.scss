@@ -1,0 +1,11 @@
+$arelia_blue_dark: #036;
+$arelia_blue_light: #369;
+$arelia_brown: #933;
+
+.testing {
+	width: percentage(5/7);
+}
+
+body {
+	background-color: $arelia_blue_light;
+}
