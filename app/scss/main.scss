@@ -2,13 +2,9 @@ $arelia_blue_dark: #036;
 $arelia_blue_light: #369;
 $arelia_brown: #933;
 
-.testing {
-	width: percentage(5/7);
-	display: flex;
-	border-radius: 5px;
-}
 
 body {
 	background-color: $arelia_blue_light;
+	color: white;
 }
 
